@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "BravoRG";
+	src: url("fonts/BravoRG/BravoRG.eot");
+	src: url("fonts/BravoRG/BravoRG.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/BravoRG/BravoRG.woff") format("woff"),
+			 url("fonts/BravoRG/BravoRG.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSansRegular";
+	src: url("fonts/OpenSansRegular/OpenSansRegular.eot");
+	src: url("fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			 url("fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "FARRAY-Regular";
+	src: url("fonts/FARRAY-Regular/FARRAY-Regular.eot");
+	src: url("fonts/FARRAY-Regular/FARRAY-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/FARRAY/FARRAY-Regular.woff") format("woff"),
+			 url("fonts/FARRAY-Regular/FARRAY-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSansRegular";
+	src: url("fonts/OpenSansRegular/OpenSansRegular.eot");
+	src: url("fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			 url("fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
